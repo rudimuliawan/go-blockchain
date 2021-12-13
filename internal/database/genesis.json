@@ -1,0 +1,7 @@
+{
+  "genesis_time": "2021-12-13T00:00:00.00000000Z",
+  "chain_id": "the-blockchain-bar-ledger",
+  "balances": {
+    "rudi": 1000000
+  }
+}
